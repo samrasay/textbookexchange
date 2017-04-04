@@ -5,59 +5,79 @@
       "name": "InterestCollection",
       "contents": [
         {
-          "name": "ICS",
+          "name": "Software Engineering",
+          "description": "Techniques for development of high quality systems"
+        },
+        {
+          "name": "Algorithms",
+          "description": "A set of rules to be followed in computation"
+        },
+        {
+          "name": "Mobile Networks",
+          "description": "Networks created using mobile devices."
+        },
+        {
+          "name": "Sailing",
           "description": ""
         },
         {
-          "name": "AMST",
+          "name": "Mars",
           "description": ""
         },
         {
-          "name": "JPN",
+          "name": "Imu Cooking",
+          "description": "Hawaiian practice of cooking in a pit."
+        },
+        {
+          "name": "Scuba",
           "description": ""
         },
         {
-          "name": "BIOL",
+          "name": "Photography",
           "description": ""
         },
         {
-          "name": "MATH",
+          "name": "Wind surfing",
           "description": ""
         },
         {
-          "name": "GEOG",
+          "name": "Psychology",
           "description": ""
         },
         {
-          "name": "BUS",
+          "name": "Motorcycling",
           "description": ""
         },
         {
-          "name": "ACM",
+          "name": "Accreditation",
           "description": ""
         },
         {
-          "name": "KOR",
+          "name": "Paddling",
           "description": ""
         },
         {
-          "name": "KRS",
+          "name": "Crossfit",
           "description": ""
         },
         {
-          "name": "ENG",
+          "name": "Cybersecurity",
           "description": ""
         },
         {
-          "name": "HAWST",
+          "name": "Surfing",
           "description": ""
         },
         {
-          "name": "ITM",
+          "name": "Computer Vision",
           "description": ""
         },
         {
-          "name": "CHEM",
+          "name": "Martial Arts",
+          "description": ""
+        },
+        {
+          "name": "Evolutionary Computation",
           "description": ""
         }
       ]
